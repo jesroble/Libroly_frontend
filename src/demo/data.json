@@ -1,0 +1,1184 @@
+{
+  "generos": [
+    {
+      "id": 1,
+      "nombre": "Ciencia Ficcion"
+    },
+    {
+      "id": 2,
+      "nombre": "Fantasia"
+    },
+    {
+      "id": 3,
+      "nombre": "Misterio"
+    },
+    {
+      "id": 4,
+      "nombre": "Thriller"
+    },
+    {
+      "id": 5,
+      "nombre": "Romance"
+    },
+    {
+      "id": 6,
+      "nombre": "Clasico"
+    },
+    {
+      "id": 7,
+      "nombre": "Aventura"
+    },
+    {
+      "id": 8,
+      "nombre": "Historia"
+    },
+    {
+      "id": 9,
+      "nombre": "Biografia"
+    },
+    {
+      "id": 10,
+      "nombre": "Poesia"
+    },
+    {
+      "id": 11,
+      "nombre": "Drama"
+    },
+    {
+      "id": 12,
+      "nombre": "Educacion"
+    },
+    {
+      "id": 13,
+      "nombre": "Infantil"
+    },
+    {
+      "id": 14,
+      "nombre": "Filosofia"
+    },
+    {
+      "id": 15,
+      "nombre": "Psicologia"
+    },
+    {
+      "id": 16,
+      "nombre": "Novela Negra"
+    },
+    {
+      "id": 17,
+      "nombre": "Satira"
+    },
+    {
+      "id": 18,
+      "nombre": "Ficcion Politica"
+    },
+    {
+      "id": 19,
+      "nombre": "Tragedia"
+    },
+    {
+      "id": 20,
+      "nombre": "Distopia"
+    },
+    {
+      "id": 21,
+      "nombre": "Crecimiento"
+    },
+    {
+      "id": 22,
+      "nombre": "Historica"
+    }
+  ],
+  "idiomas": [
+    {
+      "id": 1,
+      "codigo": "eng",
+      "nombre": "Ingles"
+    },
+    {
+      "id": 2,
+      "codigo": "spa",
+      "nombre": "Español"
+    },
+    {
+      "id": 3,
+      "codigo": "fra",
+      "nombre": "Frances"
+    },
+    {
+      "id": 4,
+      "codigo": "deu",
+      "nombre": "Aleman"
+    },
+    {
+      "id": 5,
+      "codigo": "ita",
+      "nombre": "Italiano"
+    },
+    {
+      "id": 6,
+      "codigo": "por",
+      "nombre": "Portugues"
+    },
+    {
+      "id": 7,
+      "codigo": "jpn",
+      "nombre": "Japones"
+    },
+    {
+      "id": 8,
+      "codigo": "chi",
+      "nombre": "Chino"
+    },
+    {
+      "id": 9,
+      "codigo": "rus",
+      "nombre": "Ruso"
+    },
+    {
+      "id": 10,
+      "codigo": "swe",
+      "nombre": "Sueco"
+    }
+  ],
+  "libros": [
+    {
+      "isbn": 9780743273565,
+      "titulo": "The Great Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "urlImgPortada": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg",
+      "fechaPublicacion": "1925-04-10T00:00:00.000+00:00",
+      "valoracion": 4.2,
+      "descripcion": "A classic American novel set in the Jazz Age, depicting the decadence and excess of the Roaring Twenties.",
+      "paginas": 180,
+      "publisher": "Scribner",
+      "fechaRegistro": "2024-05-18T15:06:55.772+00:00",
+      "generoIds": [
+        6,
+        5,
+        19
+      ],
+      "idiomaIds": [
+        1
+      ]
+    },
+    {
+      "isbn": 9780451524935,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "urlImgPortada": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+      "fechaPublicacion": "1949-06-08T00:00:00.000+00:00",
+      "valoracion": 3.8,
+      "descripcion": "A dystopian social science fiction novel and cautionary tale about totalitarianism.",
+      "paginas": 328,
+      "publisher": "Signet Classic",
+      "fechaRegistro": "2024-03-24T15:06:55.772+00:00",
+      "generoIds": [
+        20,
+        1,
+        18
+      ],
+      "idiomaIds": [
+        1
+      ]
+    },
+    {
+      "isbn": 9780061122415,
+      "titulo": "The Alchemist",
+      "autor": "Paulo Coelho",
+      "urlImgPortada": "https://covers.openlibrary.org/b/isbn/9780061122415-L.jpg",
+      "fechaPublicacion": "1988-01-01T00:00:00.000+00:00",
+      "valoracion": 4.7,
+      "descripcion": "A philosophical novel about a young Andalusian shepherd boy's journey to find a treasure.",
+      "paginas": 208,
+      "publisher": "HarperOne",
+      "fechaRegistro": "2024-04-20T15:06:55.772+00:00",
+      "generoIds": [
+        7,
+        2,
+        14
+      ],
+      "idiomaIds": [
+        1,
+        6
+      ]
+    },
+    {
+      "isbn": 9780547928227,
+      "titulo": "The Hobbit",
+      "autor": "J.R.R. Tolkien",
+      "urlImgPortada": "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg",
+      "fechaPublicacion": "1937-09-21T00:00:00.000+00:00",
+      "valoracion": 4.3,
+      "descripcion": "The enchanting prelude to The Lord of the Rings, telling the story of Bilbo Baggins.",
+      "paginas": 310,
+      "publisher": "Mariner Books",
+      "fechaRegistro": "2024-05-12T15:06:55.772+00:00",
+      "generoIds": [
+        2,
+        7
+      ],
+      "idiomaIds": [
+        1
+      ]
+    },
+    {
+      "isbn": 9780316769488,
+      "titulo": "The Catcher in the Rye",
+      "autor": "J.D. Salinger",
+      "urlImgPortada": "https://covers.openlibrary.org/b/isbn/9780316769488-L.jpg",
+      "fechaPublicacion": "1951-07-16T00:00:00.000+00:00",
+      "valoracion": 3.9,
+      "descripcion": "A novel about teenage angst and alienation.",
+      "paginas": 224,
+      "publisher": "Little, Brown and Company",
+      "fechaRegistro": "2024-02-18T15:06:55.772+00:00",
+      "generoIds": [
+        6,
+        21
+      ],
+      "idiomaIds": [
+        1
+      ]
+    },
+    {
+      "isbn": 9788478885619,
+      "titulo": "Harry Potter y la Piedra Filosofal",
+      "autor": "J.K. Rowling",
+      "urlImgPortada": "https://covers.openlibrary.org/b/isbn/9788478885619-L.jpg",
+      "fechaPublicacion": "1999-03-01T00:00:00.000+00:00",
+      "valoracion": 4.5,
+      "descripcion": "El primer libro de la saga de Harry Potter, donde un joven huerfano descubre que es un mago.",
+      "paginas": 256,
+      "publisher": "Salamandra",
+      "fechaRegistro": "2024-05-01T15:06:55.772+00:00",
+      "generoIds": [
+        2,
+        13,
+        7
+      ],
+      "idiomaIds": [
+        2
+      ]
+    },
+    {
+      "isbn": 9788498381498,
+      "titulo": "El Principito",
+      "autor": "Antoine de Saint-Exupery",
+      "urlImgPortada": "https://covers.openlibrary.org/b/isbn/9788498381498-L.jpg",
+      "fechaPublicacion": "1943-04-06T00:00:00.000+00:00",
+      "valoracion": 4.6,
+      "descripcion": "Un cuento filosofico para niños y adultos sobre un pequeño principe que viaja por el universo.",
+      "paginas": 96,
+      "publisher": "Salamandra",
+      "fechaRegistro": "2024-04-15T15:06:55.772+00:00",
+      "generoIds": [
+        14,
+        13,
+        5
+      ],
+      "idiomaIds": [
+        2,
+        3
+      ]
+    },
+    {
+      "isbn": 9788467871333,
+      "titulo": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes Saavedra",
+      "urlImgPortada": "https://covers.openlibrary.org/b/isbn/9788467871333-L.jpg",
+      "fechaPublicacion": "1605-01-16T00:00:00.000+00:00",
+      "valoracion": 4.9,
+      "descripcion": "La obra cumbre de la literatura española, que narra las aventuras de un hidalgo que enloquece leyendo libros de caballerias.",
+      "paginas": 1056,
+      "publisher": "Alfaguara",
+      "fechaRegistro": "2024-03-10T15:06:55.772+00:00",
+      "generoIds": [
+        6,
+        7,
+        17
+      ],
+      "idiomaIds": [
+        2
+      ]
+    },
+    {
+      "isbn": 9781544630526,
+      "titulo": "Orgullo y Prejuicio",
+      "autor": "Jane Austen",
+      "urlImgPortada": "https://covers.openlibrary.org/b/isbn/9781544630526-L.jpg",
+      "fechaPublicacion": "1813-01-28T00:00:00.000+00:00",
+      "valoracion": 4.3,
+      "descripcion": "Una novela clasica de romance y costumbres en la Inglaterra del siglo XIX.",
+      "paginas": 400,
+      "publisher": "Catedra",
+      "fechaRegistro": "2024-06-05T15:06:55.772+00:00",
+      "generoIds": [
+        5,
+        6,
+        1
+      ],
+      "idiomaIds": [
+        2,
+        1
+      ]
+    },
+    {
+      "isbn": 9789584255181,
+      "titulo": "El Codigo Da Vinci",
+      "autor": "Dan Brown",
+      "urlImgPortada": "https://covers.openlibrary.org/b/isbn/9789584255181-L.jpg",
+      "fechaPublicacion": "2003-03-18T00:00:00.000+00:00",
+      "valoracion": 4.1,
+      "descripcion": "Un simbologista se ve envuelto en una conspiracion mientras investiga un asesinato en el Louvre.",
+      "paginas": 592,
+      "publisher": "Planeta",
+      "fechaRegistro": "2024-04-28T15:06:55.772+00:00",
+      "generoIds": [
+        4,
+        3,
+        5
+      ],
+      "idiomaIds": [
+        2,
+        1
+      ]
+    },
+    {
+      "isbn": 9789872060954,
+      "titulo": "El Nombre de la Rosa",
+      "autor": "Umberto Eco",
+      "urlImgPortada": "https://covers.openlibrary.org/b/isbn/9789872060954-L.jpg",
+      "fechaPublicacion": "1980-01-01T00:00:00.000+00:00",
+      "valoracion": 4.8,
+      "descripcion": "Un fraile franciscano y su novicio investigan una serie de extrañas muertes en una abadia medieval.",
+      "paginas": 704,
+      "publisher": "Lumen",
+      "fechaRegistro": "2024-01-20T15:06:55.772+00:00",
+      "generoIds": [
+        3,
+        22,
+        14
+      ],
+      "idiomaIds": [
+        2,
+        5
+      ]
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Maria",
+      "apellidos": "Martin",
+      "user": "mariagarcia62",
+      "email": "mariagarcia62@example.com",
+      "telefono": "555 000 001",
+      "direccion": "Avenida Libertad, 46, Zaragoza",
+      "verificado": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Pablo",
+      "apellidos": "Martinez",
+      "user": "pablomartinez80",
+      "email": "pablomartinez80@example.com",
+      "telefono": "555 000 002",
+      "direccion": "Ronda de Dalt, 64, Barcelona",
+      "verificado": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Juan",
+      "apellidos": "Hernandez",
+      "user": "juansanchez27",
+      "email": "juansanchez27@example.com",
+      "telefono": "555 000 003",
+      "direccion": "Calle Mayor, 76, Valencia",
+      "verificado": 0
+    },
+    {
+      "id": 4,
+      "nombre": "Laura",
+      "apellidos": "Moreno",
+      "user": "lauralopez15",
+      "email": "lauralopez15@example.com",
+      "telefono": "555 000 004",
+      "direccion": "Via Augusta, 40, Granada",
+      "verificado": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Daniel",
+      "apellidos": "Jimenez",
+      "user": "danieljimenez99",
+      "email": "danieljimenez99@example.com",
+      "telefono": "555 000 005",
+      "direccion": "Avenida Libertad, 45, Sevilla",
+      "verificado": 0
+    },
+    {
+      "id": 6,
+      "nombre": "Luis",
+      "apellidos": "Diaz",
+      "user": "luisfernandez37",
+      "email": "luisfernandez37@example.com",
+      "telefono": "555 000 006",
+      "direccion": "Calle Mayor, 56, Malaga",
+      "verificado": 1
+    },
+    {
+      "id": 7,
+      "nombre": "Daniel",
+      "apellidos": "Garcia",
+      "user": "danielgarcia94",
+      "email": "danielgarcia94@example.com",
+      "telefono": "555 000 007",
+      "direccion": "Calle Real, 83, Zaragoza",
+      "verificado": 0
+    },
+    {
+      "id": 8,
+      "nombre": "Carlos",
+      "apellidos": "Diaz",
+      "user": "carlosdiaz47",
+      "email": "carlosdiaz47@example.com",
+      "telefono": "555 000 008",
+      "direccion": "Paseo de la Castellana, 44, Granada",
+      "verificado": 1
+    },
+    {
+      "id": 9,
+      "nombre": "Pedro",
+      "apellidos": "Martinez",
+      "user": "pedromartinez39",
+      "email": "pedromartinez39@example.com",
+      "telefono": "555 000 009",
+      "direccion": "Calle del Sol, 12, Valencia",
+      "verificado": 0
+    },
+    {
+      "id": 10,
+      "nombre": "Javier",
+      "apellidos": "Sanchez",
+      "user": "javiersanchez22",
+      "email": "javiersanchez22@example.com",
+      "telefono": "555 000 010",
+      "direccion": "Calle Real, 52, Granada",
+      "verificado": 1
+    },
+    {
+      "id": 11,
+      "nombre": "Ana",
+      "apellidos": "Gomez",
+      "user": "anagomez78",
+      "email": "anagomez78@example.com",
+      "telefono": "555 000 011",
+      "direccion": "Gran Via, 79, Granada",
+      "verificado": 0
+    },
+    {
+      "id": 12,
+      "nombre": "Diego",
+      "apellidos": "Jimenez",
+      "user": "diegosalazar13",
+      "email": "diegosalazar13@example.com",
+      "telefono": "555 000 012",
+      "direccion": "Calle del Sol, 70, Granada",
+      "verificado": 1
+    },
+    {
+      "id": 13,
+      "nombre": "Daniel",
+      "apellidos": "Sanchez",
+      "user": "danielrodriguez32",
+      "email": "danielrodriguez32@example.com",
+      "telefono": "555 000 013",
+      "direccion": "Paseo de la Castellana, 63, Zaragoza",
+      "verificado": 1
+    },
+    {
+      "id": 14,
+      "nombre": "Sofia",
+      "apellidos": "Rodriguez",
+      "user": "sofiarodriguez54",
+      "email": "sofiarodriguez54@example.com",
+      "telefono": "555 000 014",
+      "direccion": "Avenida de la Constitucion, 83, Bilbao",
+      "verificado": 0
+    },
+    {
+      "id": 15,
+      "nombre": "Diego",
+      "apellidos": "Sanchez",
+      "user": "diegosanchez43",
+      "email": "diegosanchez43@example.com",
+      "telefono": "555 000 015",
+      "direccion": "Calle del Sol, 56, Zaragoza",
+      "verificado": 0
+    }
+  ],
+  "libroUsuario": [
+    {
+      "isbn": 9780061122415,
+      "usuarioId": 1,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9788467871333,
+      "usuarioId": 1,
+      "enVenta": true,
+      "precio": 47.96,
+      "estado": 4
+    },
+    {
+      "isbn": 9789872060954,
+      "usuarioId": 1,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9780451524935,
+      "usuarioId": 2,
+      "enVenta": true,
+      "precio": 48.06,
+      "estado": 5
+    },
+    {
+      "isbn": 9780061122415,
+      "usuarioId": 2,
+      "enVenta": true,
+      "precio": 49.33,
+      "estado": 4
+    },
+    {
+      "isbn": 9780547928227,
+      "usuarioId": 2,
+      "enVenta": true,
+      "precio": 33.62,
+      "estado": 3
+    },
+    {
+      "isbn": 9789584255181,
+      "usuarioId": 2,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9788498381498,
+      "usuarioId": 3,
+      "enVenta": true,
+      "precio": 15.39,
+      "estado": 2
+    },
+    {
+      "isbn": 9780547928227,
+      "usuarioId": 3,
+      "enVenta": true,
+      "precio": 13.92,
+      "estado": 1
+    },
+    {
+      "isbn": 9780743273565,
+      "usuarioId": 3,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9789584255181,
+      "usuarioId": 4,
+      "enVenta": true,
+      "precio": 40.54,
+      "estado": 2
+    },
+    {
+      "isbn": 9788478885619,
+      "usuarioId": 4,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9780547928227,
+      "usuarioId": 4,
+      "enVenta": true,
+      "precio": 29.53,
+      "estado": 3
+    },
+    {
+      "isbn": 9789872060954,
+      "usuarioId": 4,
+      "enVenta": true,
+      "precio": 20.91,
+      "estado": 4
+    },
+    {
+      "isbn": 9780743273565,
+      "usuarioId": 5,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9780316769488,
+      "usuarioId": 5,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9780547928227,
+      "usuarioId": 5,
+      "enVenta": true,
+      "precio": 28.02,
+      "estado": 5
+    },
+    {
+      "isbn": 9788498381498,
+      "usuarioId": 5,
+      "enVenta": true,
+      "precio": 31.11,
+      "estado": 1
+    },
+    {
+      "isbn": 9780061122415,
+      "usuarioId": 6,
+      "enVenta": true,
+      "precio": 14.07,
+      "estado": 2
+    },
+    {
+      "isbn": 9780547928227,
+      "usuarioId": 6,
+      "enVenta": true,
+      "precio": 21.09,
+      "estado": 3
+    },
+    {
+      "isbn": 9789584255181,
+      "usuarioId": 6,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9788467871333,
+      "usuarioId": 6,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9780061122415,
+      "usuarioId": 7,
+      "enVenta": true,
+      "precio": 13.95,
+      "estado": 4
+    },
+    {
+      "isbn": 9780451524935,
+      "usuarioId": 7,
+      "enVenta": true,
+      "precio": 39.53,
+      "estado": 5
+    },
+    {
+      "isbn": 9780547928227,
+      "usuarioId": 7,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9788478885619,
+      "usuarioId": 8,
+      "enVenta": true,
+      "precio": 13.91,
+      "estado": 1
+    },
+    {
+      "isbn": 9780061122415,
+      "usuarioId": 8,
+      "enVenta": true,
+      "precio": 33.47,
+      "estado": 2
+    },
+    {
+      "isbn": 9780547928227,
+      "usuarioId": 8,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9789872060954,
+      "usuarioId": 8,
+      "enVenta": true,
+      "precio": 20.91,
+      "estado": 3
+    },
+    {
+      "isbn": 9788467871333,
+      "usuarioId": 9,
+      "enVenta": true,
+      "precio": 31.06,
+      "estado": 5
+    },
+    {
+      "isbn": 9780061122415,
+      "usuarioId": 9,
+      "enVenta": true,
+      "precio": 10.97,
+      "estado": 1
+    },
+    {
+      "isbn": 9789872060954,
+      "usuarioId": 9,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9788467871333,
+      "usuarioId": 10,
+      "enVenta": true,
+      "precio": 38.38,
+      "estado": 4
+    },
+    {
+      "isbn": 9789584255181,
+      "usuarioId": 10,
+      "enVenta": true,
+      "precio": 20.45,
+      "estado": 5
+    },
+    {
+      "isbn": 9780547928227,
+      "usuarioId": 10,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9780316769488,
+      "usuarioId": 10,
+      "enVenta": true,
+      "precio": 15.65,
+      "estado": 3
+    },
+    {
+      "isbn": 9788498381498,
+      "usuarioId": 10,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9788478885619,
+      "usuarioId": 11,
+      "enVenta": true,
+      "precio": 22.03,
+      "estado": 5
+    },
+    {
+      "isbn": 9780451524935,
+      "usuarioId": 11,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9780316769488,
+      "usuarioId": 12,
+      "enVenta": true,
+      "precio": 31.99,
+      "estado": 4
+    },
+    {
+      "isbn": 9788498381498,
+      "usuarioId": 12,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9780061122415,
+      "usuarioId": 13,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9780547928227,
+      "usuarioId": 13,
+      "enVenta": true,
+      "precio": 29.53,
+      "estado": 1
+    },
+    {
+      "isbn": 9780451524935,
+      "usuarioId": 13,
+      "enVenta": true,
+      "precio": 38.35,
+      "estado": 2
+    },
+    {
+      "isbn": 9789584255181,
+      "usuarioId": 14,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9780316769488,
+      "usuarioId": 14,
+      "enVenta": true,
+      "precio": 23.36,
+      "estado": 5
+    },
+    {
+      "isbn": 9788498381498,
+      "usuarioId": 14,
+      "enVenta": true,
+      "precio": 28.46,
+      "estado": 2
+    },
+    {
+      "isbn": 9780743273565,
+      "usuarioId": 14,
+      "enVenta": true,
+      "precio": 21.09,
+      "estado": 1
+    },
+    {
+      "isbn": 9780547928227,
+      "usuarioId": 15,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    },
+    {
+      "isbn": 9780316769488,
+      "usuarioId": 15,
+      "enVenta": true,
+      "precio": 31.99,
+      "estado": 3
+    },
+    {
+      "isbn": 9789584255181,
+      "usuarioId": 15,
+      "enVenta": false,
+      "precio": null,
+      "estado": 0
+    }
+  ],
+  "transacciones": [
+    {
+      "id": 1,
+      "compradorId": 14,
+      "fechaTransaccion": "2024-03-27T15:06:55.772+00:00",
+      "precioLibros": 40.5,
+      "precioTotal": 42.52
+    },
+    {
+      "id": 2,
+      "compradorId": 5,
+      "fechaTransaccion": "2024-05-18T15:06:55.772+00:00",
+      "precioLibros": 36.23,
+      "precioTotal": 38.04
+    },
+    {
+      "id": 3,
+      "compradorId": 7,
+      "fechaTransaccion": "2024-03-09T15:06:55.772+00:00",
+      "precioLibros": 63.85,
+      "precioTotal": 67.04
+    },
+    {
+      "id": 4,
+      "compradorId": 13,
+      "fechaTransaccion": "2024-01-20T15:06:55.772+00:00",
+      "precioLibros": 77.29,
+      "precioTotal": 81.15
+    },
+    {
+      "id": 5,
+      "compradorId": 11,
+      "fechaTransaccion": "2024-03-27T15:06:55.772+00:00",
+      "precioLibros": 48.06,
+      "precioTotal": 50.46
+    },
+    {
+      "id": 6,
+      "compradorId": 12,
+      "fechaTransaccion": "2024-04-20T15:06:55.772+00:00",
+      "precioLibros": 59.85,
+      "precioTotal": 62.84
+    },
+    {
+      "id": 7,
+      "compradorId": 13,
+      "fechaTransaccion": "2024-03-02T15:06:55.772+00:00",
+      "precioLibros": 96.65,
+      "precioTotal": 101.48
+    },
+    {
+      "id": 8,
+      "compradorId": 9,
+      "fechaTransaccion": "2024-05-02T15:06:55.772+00:00",
+      "precioLibros": 71.55,
+      "precioTotal": 75.13
+    },
+    {
+      "id": 9,
+      "compradorId": 1,
+      "fechaTransaccion": "2024-04-19T15:06:55.772+00:00",
+      "precioLibros": 54.12,
+      "precioTotal": 56.83
+    },
+    {
+      "id": 10,
+      "compradorId": 10,
+      "fechaTransaccion": "2024-03-22T15:06:55.772+00:00",
+      "precioLibros": 68.32,
+      "precioTotal": 71.74
+    },
+    {
+      "id": 11,
+      "compradorId": 4,
+      "fechaTransaccion": "2024-05-24T15:06:55.772+00:00",
+      "precioLibros": 44.89,
+      "precioTotal": 47.13
+    },
+    {
+      "id": 12,
+      "compradorId": 1,
+      "fechaTransaccion": "2024-04-03T15:06:55.772+00:00",
+      "precioLibros": 82.55,
+      "precioTotal": 86.68
+    }
+  ],
+  "detalles": [
+    {
+      "id": 1,
+      "transaccionId": 1,
+      "isbn": 9780316769488,
+      "vendedorId": 10,
+      "estado": 1,
+      "precioIndividual": 23.36
+    },
+    {
+      "id": 2,
+      "transaccionId": 1,
+      "isbn": 9780061122415,
+      "vendedorId": 8,
+      "estado": 1,
+      "precioIndividual": 13.91
+    },
+    {
+      "id": 3,
+      "transaccionId": 2,
+      "isbn": 9780547928227,
+      "vendedorId": 7,
+      "estado": 0,
+      "precioIndividual": 13.95
+    },
+    {
+      "id": 4,
+      "transaccionId": 2,
+      "isbn": 9789584255181,
+      "vendedorId": 4,
+      "estado": 1,
+      "precioIndividual": 20.46
+    },
+    {
+      "id": 5,
+      "transaccionId": 3,
+      "isbn": 9788478885619,
+      "vendedorId": 11,
+      "estado": 1,
+      "precioIndividual": 22.03
+    },
+    {
+      "id": 6,
+      "transaccionId": 3,
+      "isbn": 9780451524935,
+      "vendedorId": 13,
+      "estado": 0,
+      "precioIndividual": 39.53
+    },
+    {
+      "id": 7,
+      "transaccionId": 4,
+      "isbn": 9788478885619,
+      "vendedorId": 10,
+      "estado": 1,
+      "precioIndividual": 10.39
+    },
+    {
+      "id": 8,
+      "transaccionId": 4,
+      "isbn": 9780061122415,
+      "vendedorId": 12,
+      "estado": 0,
+      "precioIndividual": 31.25
+    },
+    {
+      "id": 9,
+      "transaccionId": 4,
+      "isbn": 9780547928227,
+      "vendedorId": 5,
+      "estado": 2,
+      "precioIndividual": 28.02
+    },
+    {
+      "id": 10,
+      "transaccionId": 5,
+      "isbn": 9780743273565,
+      "vendedorId": 8,
+      "estado": 1,
+      "precioIndividual": 33.47
+    },
+    {
+      "id": 11,
+      "transaccionId": 5,
+      "isbn": 9789584255181,
+      "vendedorId": 14,
+      "estado": 0,
+      "precioIndividual": 20.91
+    },
+    {
+      "id": 12,
+      "transaccionId": 6,
+      "isbn": 9780316769488,
+      "vendedorId": 15,
+      "estado": 1,
+      "precioIndividual": 31.99
+    },
+    {
+      "id": 13,
+      "transaccionId": 6,
+      "isbn": 9788498381498,
+      "vendedorId": 12,
+      "estado": 2,
+      "precioIndividual": 28.66
+    },
+    {
+      "id": 14,
+      "transaccionId": 7,
+      "isbn": 9788467871333,
+      "vendedorId": 10,
+      "estado": 1,
+      "precioIndividual": 38.38
+    },
+    {
+      "id": 15,
+      "transaccionId": 7,
+      "isbn": 9780451524935,
+      "vendedorId": 11,
+      "estado": 0,
+      "precioIndividual": 12.39
+    },
+    {
+      "id": 16,
+      "transaccionId": 7,
+      "isbn": 9780547928227,
+      "vendedorId": 4,
+      "estado": 1,
+      "precioIndividual": 29.53
+    },
+    {
+      "id": 17,
+      "transaccionId": 7,
+      "isbn": 9789584255181,
+      "vendedorId": 14,
+      "estado": 2,
+      "precioIndividual": 17.06
+    },
+    {
+      "id": 18,
+      "transaccionId": 8,
+      "isbn": 9780061122415,
+      "vendedorId": 2,
+      "estado": 1,
+      "precioIndividual": 10.97
+    },
+    {
+      "id": 19,
+      "transaccionId": 8,
+      "isbn": 9788467871333,
+      "vendedorId": 3,
+      "estado": 0,
+      "precioIndividual": 31.06
+    },
+    {
+      "id": 21,
+      "transaccionId": 9,
+      "isbn": 9780547928227,
+      "vendedorId": 2,
+      "estado": 0,
+      "precioIndividual": 14.59
+    },
+    {
+      "id": 22,
+      "transaccionId": 10,
+      "isbn": 9780316769488,
+      "vendedorId": 14,
+      "estado": 1,
+      "precioIndividual": 15.65
+    },
+    {
+      "id": 23,
+      "transaccionId": 10,
+      "isbn": 9788498381498,
+      "vendedorId": 1,
+      "estado": 2,
+      "precioIndividual": 28.46
+    },
+    {
+      "id": 24,
+      "transaccionId": 11,
+      "isbn": 9780743273565,
+      "vendedorId": 6,
+      "estado": 1,
+      "precioIndividual": 21.09
+    },
+    {
+      "id": 25,
+      "transaccionId": 11,
+      "isbn": 9780061122415,
+      "vendedorId": 9,
+      "estado": 0,
+      "precioIndividual": 14.07
+    },
+    {
+      "id": 26,
+      "transaccionId": 12,
+      "isbn": 9780451524935,
+      "vendedorId": 13,
+      "estado": 1,
+      "precioIndividual": 38.35
+    },
+    {
+      "id": 27,
+      "transaccionId": 12,
+      "isbn": 9789584255181,
+      "vendedorId": 10,
+      "estado": 0,
+      "precioIndividual": 20.45
+    },
+    {
+      "id": 28,
+      "transaccionId": 12,
+      "isbn": 9788467871333,
+      "vendedorId": 9,
+      "estado": 2,
+      "precioIndividual": 10.96
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+.top-bar {
+    width: 100%;
+    background: rgb(23, 10, 105);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6px 1rem;
+    font-size: 0.95rem;
+    position: sticky;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+}
+
+@media (min-width: 640px) {
+    .top-bar {
+        justify-content: space-between;
+        padding: 6px 2rem;
+    }
+}
+
+.bs-tlf {
+    font-weight: 500;
+}
+
+.bs-webs a {
+    color: white;
+    transition: opacity 0.2s;
+}
+
+.bs-webs a:hover {
+    opacity: 0.8;
+}
