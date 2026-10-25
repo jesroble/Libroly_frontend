@@ -476,7 +476,7 @@ export const recommendBooks = async (userInput: string) => {
         })),
         general_recommendations: [] as { title: string; author: string; isbn?: string; purchase_url?: string }[],
         message: matches.length > 0
-            ? 'Modo demo: estas recomendaciones salen del catálogo de ejemplo (sin IA).'
+            ? 'Estas recomendaciones salen del catálogo de ejemplo.'
             : 'Modo demo: no encontré coincidencias en el catálogo de ejemplo, así que te propongo los libros mejor valorados.',
     };
 };
